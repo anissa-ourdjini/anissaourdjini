@@ -5,7 +5,7 @@ Hi is # anissaourdjini
 
 
 ## Biographie professionnelle
-Je suis une développeuse passionnée . Avec  années d'expérience dans le domaine, je me suis spécialisée dans la création de solutions et la gestion de projets open source. Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences et contribuer à des projets innovants.
+Je suis en formation pour devenir une développeuse passionnée .Je veux me spécialiser dans la création de solutions et la gestion de projets open source. Je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences et contribuer à des projets innovants.
 
 ---
 
@@ -57,8 +57,8 @@ J'ai épinglé ici quelques projets importants que je souhaite mettre en avant :
 
 ## 🔧 Technologies et outils
 J'ai travaillé avec un large éventail de technologies, dont :
-- **Langages** : Python, JavaScript, Java, 
+- **Langages** : Python, JavaScript, HTML 
 - **Frameworks** :
-- **Outils de développement** :
+- **Outils de développement** :VMR
 - **Bases de données** : 
 - **Autres compétences** : 
